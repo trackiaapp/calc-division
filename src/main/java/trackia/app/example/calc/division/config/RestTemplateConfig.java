@@ -8,7 +8,7 @@ import org.springframework.http.client.HttpComponentsClientHttpRequestFactory;
 
 import trackia.app.util.RestTemplateJournal;
 
-@ComponentScan(basePackages = {"trackia.app", "trackia.app.example.calc.addition"})
+@ComponentScan(basePackages = {"trackia.app"})
 @Configuration
 public class RestTemplateConfig {
 

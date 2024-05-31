@@ -23,10 +23,7 @@ public class DivisionController {
 	
 	private final DivisionService service;
 	
-	@Trackia(
-      description = "Calc Division TrackIA example",
-  		  	write = true
-	)
+	@Trackia(description = "Calc Division TrackIA example", write = true)
 	@Slable(3000)
 	@Infoable
 	

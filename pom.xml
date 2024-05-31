@@ -10,7 +10,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>trackia.app.example.calc</groupId>
-	<artifactId>division</artifactId>
+	<artifactId>Division-1-0</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>division</name>
 	<description>Trackia Division Calc Demo</description>
